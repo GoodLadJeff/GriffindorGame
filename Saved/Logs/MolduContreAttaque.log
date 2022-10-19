@@ -1076,3 +1076,7 @@ Recommended: 516.25
 [2022.10.19-09.58.05:787][975]LogSavePackage: Moving 'C:/Users/geoffroy.bordenave/Documents/Unreal Projects/MolduContreAttaque/Saved/YUZ9741T50O1SYRX90OB0SDCBCCE3E464552AAE18EAEA5A89AA5A7.tmp' to 'C:/Users/geoffroy.bordenave/Documents/Unreal Projects/MolduContreAttaque/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset'
 [2022.10.19-09.58.05:795][975]AssetCheck: New page: Asset Save: StaticMeshActor_9
 [2022.10.19-09.58.05:795][975]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_9
+[2022.10.19-09.59.40:483][667]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G
+[2022.10.19-09.59.40:483][667]LogSavePackage: Moving 'C:/Users/geoffroy.bordenave/Documents/Unreal Projects/MolduContreAttaque/Saved/PDQ0AB8RLNMVID876FD49G3944945C4D4D321085DED190FB87CE9B.tmp' to 'C:/Users/geoffroy.bordenave/Documents/Unreal Projects/MolduContreAttaque/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset'
+[2022.10.19-09.59.40:492][667]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+[2022.10.19-09.59.40:492][667]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
