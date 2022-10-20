@@ -3340,3 +3340,10 @@ Script Stack (0 frames):
 [2022.10.20-18.03.19:159][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
 [2022.10.20-18.03.19:169][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
 [2022.10.20-18.03.19:195][178]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.10.20-18.05.05:085][248]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2022.10.20-18.05.05:085][248]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2022.10.20-18.05.08:093][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="../../../Projects/GriffindorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.10.20-18.05.08:127][557]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.10.20-18.05.08:128][557]LogSavePackage: Moving '../../../Projects/GriffindorGame/Saved/BP_FirstPersonCharacterF03DF80F47C02A811DE7358BB39CDD23.tmp' to '../../../Projects/GriffindorGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.10.20-18.05.08:145][557]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.10.20-18.05.08:145][557]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
