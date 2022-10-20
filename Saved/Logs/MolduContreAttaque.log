@@ -7030,3 +7030,8 @@ Enemy_C.BndEvt__Enemy_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__
 [2022.10.20-10.49.20:103][295]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.10.20-10.49.35:744][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2022.10.20-10.49.35:745][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-10.52.58:837][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.20-10.52.58:843][974]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_ALED_Auto1
+[2022.10.20-10.52.58:843][974]LogSavePackage: Moving 'C:/Users/geoffroy.bordenave/Documents/Unreal Projects/MolduContreAttaque/Saved/MAP_ALED_Auto103C293CE49088695285CC1A968EAB685.tmp' to 'C:/Users/geoffroy.bordenave/Documents/Unreal Projects/MolduContreAttaque/Saved/Autosaves/Game/Maps/MAP_ALED_Auto1.umap'
+[2022.10.20-10.52.58:848][974]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_ALED' took 0.058
+[2022.10.20-10.52.58:848][974]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
