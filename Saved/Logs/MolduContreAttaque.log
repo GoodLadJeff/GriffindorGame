@@ -892,3 +892,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.20-15.19.18:401][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.20-15.19.18:403][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
 [2022.10.20-15.19.18:444][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.10.20-15.20.02:468][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.20-15.20.02:493][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_ALED" FILE="../../../Projects/GriffindorGame/Saved/Autosaves/Game/Maps/MAP_ALED_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.10.20-15.20.02:497][427]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_ALED_Auto1
+[2022.10.20-15.20.02:497][427]LogSavePackage: Moving '../../../Projects/GriffindorGame/Saved/MAP_ALED_Auto1F25258154ED586D31BC56297485091E8.tmp' to '../../../Projects/GriffindorGame/Saved/Autosaves/Game/Maps/MAP_ALED_Auto1.umap'
+[2022.10.20-15.20.02:563][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_ALED' took 0.110
+[2022.10.20-15.20.02:563][427]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.110
