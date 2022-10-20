@@ -898,3 +898,80 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.20-15.20.02:497][427]LogSavePackage: Moving '../../../Projects/GriffindorGame/Saved/MAP_ALED_Auto1F25258154ED586D31BC56297485091E8.tmp' to '../../../Projects/GriffindorGame/Saved/Autosaves/Game/Maps/MAP_ALED_Auto1.umap'
 [2022.10.20-15.20.02:563][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_ALED' took 0.110
 [2022.10.20-15.20.02:563][427]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.110
+[2022.10.20-15.24.02:612][149]LogEditorViewport: Clicking Background
+[2022.10.20-15.24.12:264][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.20-15.24.14:235][897]LogSlate: Window 'Save Content' being destroyed
+[2022.10.20-15.24.14:276][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_ALED" FILE="../../../Projects/GriffindorGame/Content/Maps/MAP_ALED.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-15.24.14:308][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.10.20-15.24.14:313][897]LogSavePackage: Moving output files for package: /Game/Maps/MAP_ALED
+[2022.10.20-15.24.14:314][897]LogSavePackage: Moving '../../../Projects/GriffindorGame/Saved/MAP_ALEDA6B41EDC41A0C270E59002B97B5D1C66.tmp' to '../../../Projects/GriffindorGame/Content/Maps/MAP_ALED.umap'
+[2022.10.20-15.24.14:323][897]LogFileHelpers: Saving map 'MAP_ALED' took 0.047
+[2022.10.20-15.24.14:637][897]LogTexture: Display: Building textures: /Game/Maps/Main_BuiltData.Main_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2022.10.20-15.24.14:637][897]LogTexture: Display: Building textures: /Game/Maps/Main_BuiltData.Main_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.20-15.24.14:637][897]LogTexture: Display: Building textures: /Game/Maps/Main_BuiltData.Main_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.20-15.24.14:637][897]LogTexture: Display: Building textures: /Game/Maps/Main_BuiltData.Main_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.20-15.24.14:637][897]LogTexture: Display: Building textures: /Game/Maps/Main_BuiltData.Main_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.20-15.24.14:637][897]LogMaterial: Display: Missing cached shadermap for M_FlatBase in PCD3D_SM5, Default, SM5 (DDC key hash: 8A43C895B2A2D115EAA4F50D58F461084B3364BF), compiling. 
+[2022.10.20-15.24.15:098][897]LogTexture: Display: Building textures: /Game/Maps/Main_BuiltData.Main_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.10.20-15.24.15:098][897]LogTexture: Display: Building textures: /Game/Maps/Main_BuiltData.Main_BuiltData:ShadowMapTexture2D_6 (G8, 1024X128 X1X1) (Required Memory Estimate: 0.833354 MB), EncodeSpeed: Fast
+[2022.10.20-15.24.15:098][897]LogTexture: Display: Building textures: /Game/Maps/Main_BuiltData.Main_BuiltData:ShadowMapTexture2D_7 (G8, 32X32 X1X1) (Required Memory Estimate: 0.006509 MB), EncodeSpeed: Fast
+[2022.10.20-15.24.15:098][897]LogStaticMesh: Display: Building static mesh SM_Cube...
+[2022.10.20-15.24.15:157][897]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/Meshes/SM_Cube.SM_Cube
+[2022.10.20-15.24.15:160][897]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Main.Main
+[2022.10.20-15.24.15:160][897]Cmd: MAP LOAD FILE="../../../Projects/GriffindorGame/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.20-15.24.15:160][897]LightingResults: New page: Lighting Build
+[2022.10.20-15.24.15:160][897]LoadErrors: New page: Loading map: Main.umap
+[2022.10.20-15.24.15:161][897]LogWorld: UWorld::CleanupWorld for MAP_ALED, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-15.24.15:164][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-15.24.15:164][897]MapCheck: New page: Map Check
+[2022.10.20-15.24.15:164][897]LightingResults: New page: Lighting Build
+[2022.10.20-15.24.15:194][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.20-15.24.15:201][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.20-15.24.18:239][897]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.10.20-15.24.18:239][897]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.10.20-15.24.18:239][897]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049992s
+[2022.10.20-15.24.22:879][897]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.004005s (4.688083s overbudget)
+[2022.10.20-15.24.23:048][897]LogShaderCompilers: Display: ================================================
+[2022.10.20-15.24.23:048][897]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.20-15.24.23:048][897]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2022.10.20-15.24.23:048][897]LogShaderCompilers: Display: Tracking 25 distinct input hashes that result in 20 distinct outputs (80.00%)
+[2022.10.20-15.24.23:048][897]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.01%
+[2022.10.20-15.24.23:048][897]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.20-15.24.23:048][897]LogShaderCompilers: Display: Shaders Compiled: 25
+[2022.10.20-15.24.23:049][897]LogShaderCompilers: Display: Jobs assigned 25, completed 25 (100.00%)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Job execution time: average 7.52 s, max 7.81 s
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Job life time (pending + execution): average 7.60 s, max 7.89
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.89 s
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 3.57 jobs/batch
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Average processing rate: 3.17 jobs/sec
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Effective parallelization: 3.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 1.59 sec, max 1.59 sec, min 1.59 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.56% of total time (compiled    1 times, average 1.62 sec, max 1.62 sec, min 1.62 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 5.46% of total time (compiled    1 times, average 1.59 sec, max 1.59 sec, min 1.59 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ - 5.34% of total time (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 5.16% of total time (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.11% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2022.10.20-15.24.23:124][897]LogShaderCompilers: Display: ================================================
+[2022.10.20-15.24.23:180][897]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-15.24.23:180][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-15.24.23:240][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.20-15.24.23:271][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.20-15.24.23:278][897]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.10.20-15.24.23:278][897]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.20-15.24.23:278][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.20-15.24.23:279][897]LogAIModule: Creating AISystem for world Main
+[2022.10.20-15.24.23:305][897]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.20-15.24.23:341][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.20-15.24.23:349][897]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.20-15.24.23:349][897]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2022.10.20-15.24.23:349][897]LogFileHelpers: Loading map 'Main' took 8.189
+[2022.10.20-15.24.23:356][897]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002615s (5.211293s overbudget)
+[2022.10.20-15.24.23:370][897]AssetCheck: New page: Asset Save: MAP_ALED
+[2022.10.20-15.24.23:370][897]LogContentValidation: Display: Validating World /Game/Maps/MAP_ALED.MAP_ALED
