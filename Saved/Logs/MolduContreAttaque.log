@@ -1796,3 +1796,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.21-03.53.04:904][879]LogSavePackage: Moving 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Saved/Ld_Map_TestingD6E4A9984E62D56C5BA0CD94894263A9.tmp' to 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap'
 [2022.10.21-03.53.04:921][879]AssetCheck: New page: Asset Save: Ld_Map_Testing
 [2022.10.21-03.53.04:921][879]LogContentValidation: Display: Validating World /Game/Maps/Ld_Map_Testing.Ld_Map_Testing
+[2022.10.21-03.54.15:571][259]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2022.10.21-03.54.15:571][259]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2022.10.21-03.54.17:011][338]LogWindowsTextInputMethodSystem: Activated input method: Anglais (États-Unis) - (Keyboard).
+[2022.10.21-03.54.17:011][338]LogWindowsTextInputMethodSystem: Activated input method: Anglais (États-Unis) - (Keyboard).
+[2022.10.21-03.54.26:180][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ld_Map_Testing" FILE="C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.21-03.54.26:186][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.21-03.54.26:221][ 82]LogSavePackage: Moving output files for package: /Game/Maps/Ld_Map_Testing
+[2022.10.21-03.54.26:221][ 82]LogSavePackage: Moving 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Saved/Ld_Map_Testing2B82EF414445ACEECE7AB6877BCE8F8E.tmp' to 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap'
+[2022.10.21-03.54.26:236][ 82]AssetCheck: New page: Asset Save: Ld_Map_Testing
+[2022.10.21-03.54.26:236][ 82]LogContentValidation: Display: Validating World /Game/Maps/Ld_Map_Testing.Ld_Map_Testing
+[2022.10.21-03.54.51:630][701]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.21-03.56.09:632][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ld_Map_Testing" FILE="C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.21-03.56.09:638][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.21-03.56.09:671][465]LogSavePackage: Moving output files for package: /Game/Maps/Ld_Map_Testing
+[2022.10.21-03.56.09:672][465]LogSavePackage: Moving 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Saved/Ld_Map_TestingB42A3E0D482F8E06776EEEB0B6CEA757.tmp' to 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap'
+[2022.10.21-03.56.09:688][465]AssetCheck: New page: Asset Save: Ld_Map_Testing
+[2022.10.21-03.56.09:688][465]LogContentValidation: Display: Validating World /Game/Maps/Ld_Map_Testing.Ld_Map_Testing
