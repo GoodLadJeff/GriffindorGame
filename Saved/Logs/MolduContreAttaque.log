@@ -1027,3 +1027,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.21-09.06.34:771][315]LogSavePackage: Moving 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Saved/Ld_Map_Testing52184E7840E43991F0E82A9F14E95AE7.tmp' to 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap'
 [2022.10.21-09.06.34:792][315]AssetCheck: New page: Asset Save: Ld_Map_Testing
 [2022.10.21-09.06.34:792][315]LogContentValidation: Display: Validating World /Game/Maps/Ld_Map_Testing.Ld_Map_Testing
+[2022.10.21-09.10.34:965][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ld_Map_Testing" FILE="C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.21-09.10.34:991][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.21-09.10.35:038][871]LogSavePackage: Moving output files for package: /Game/Maps/Ld_Map_Testing
+[2022.10.21-09.10.35:038][871]LogSavePackage: Moving 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Saved/Ld_Map_Testing621823C74588BEC92D0912BE4AF71874.tmp' to 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap'
+[2022.10.21-09.10.35:067][871]AssetCheck: New page: Asset Save: Ld_Map_Testing
+[2022.10.21-09.10.35:067][871]LogContentValidation: Display: Validating World /Game/Maps/Ld_Map_Testing.Ld_Map_Testing
