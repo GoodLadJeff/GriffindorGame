@@ -848,3 +848,182 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.21-08.57.28:853][288]LogEditorActor: Deleted 18 Actors (0.036 secs)
 [2022.10.21-08.57.30:918][451]Cmd: TRANSACTION UNDO
 [2022.10.21-08.57.30:918][451]LogEditorTransaction: Undo Delete Elements
+[2022.10.21-08.59.08:395][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.08:395][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.08:396][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_10
+[2022.10.21-08.59.08:397][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_10
+[2022.10.21-08.59.09:157][ 68]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.09:157][ 68]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.09:159][ 68]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_11
+[2022.10.21-08.59.09:160][ 68]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_11
+[2022.10.21-08.59.10:248][145]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.10:248][145]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.10:249][145]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_12
+[2022.10.21-08.59.10:250][145]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_12
+[2022.10.21-08.59.11:054][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.11:054][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.11:056][212]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_13
+[2022.10.21-08.59.11:057][212]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_13
+[2022.10.21-08.59.12:114][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.12:114][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.12:115][295]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_14
+[2022.10.21-08.59.12:116][295]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_14
+[2022.10.21-08.59.13:043][370]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.13:043][370]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.13:045][370]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_15
+[2022.10.21-08.59.13:046][370]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_15
+[2022.10.21-08.59.13:964][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.13:964][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.13:966][433]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_16
+[2022.10.21-08.59.13:967][433]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_16
+[2022.10.21-08.59.15:935][587]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.15:935][587]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.15:936][587]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_17
+[2022.10.21-08.59.15:937][587]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_17
+[2022.10.21-08.59.16:954][664]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.16:954][664]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.16:955][664]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_18
+[2022.10.21-08.59.16:956][664]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_18
+[2022.10.21-08.59.17:910][738]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.17:910][738]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy.Enemy_C
+[2022.10.21-08.59.17:912][738]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_19
+[2022.10.21-08.59.17:913][738]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/Maps/Ld_Map_Testing.Ld_Map_Testing:PersistentLevel.Enemy_C_19
+[2022.10.21-08.59.24:253][228]Cmd: DELETE
+[2022.10.21-08.59.24:253][228]Cmd: ACTOR DELETE
+[2022.10.21-08.59.24:259][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.21-08.59.24:260][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.21-08.59.24:260][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.21-08.59.24:260][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.21-08.59.24:261][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.21-08.59.24:261][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.21-08.59.24:261][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.21-08.59.24:262][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.21-08.59.24:286][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.10.21-08.59.24:289][228]LogEditorActor: Deleted 8 Actors (0.036 secs)
+[2022.10.21-08.59.45:448][885]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.21-08.59.45:454][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.21-08.59.45:455][885]PIE: New page: PIE session: Ld_Map_Testing (21 oct. 2022 à 12:59:45)
+[2022.10.21-08.59.45:458][885]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.21-08.59.45:458][885]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.21-08.59.45:458][885]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ld_Map_Testing
+[2022.10.21-08.59.45:476][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018642s)
+[2022.10.21-08.59.45:477][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ld_Map_Testing.Ld_Map_Testing to /Game/Maps/UEDPIE_0_Ld_Map_Testing.Ld_Map_Testing (0.018724s)
+[2022.10.21-08.59.45:477][885]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.21-08.59.45:477][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.21-08.59.45:477][885]LogAIModule: Creating AISystem for world Ld_Map_Testing
+[2022.10.21-08.59.45:477][885]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2022.10.21-08.59.45:496][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.21-08.59.45:500][885]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.21-08.59.45:500][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.21-08.59.45:500][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.21-08.59.45:500][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.21-08.59.45:500][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.21-08.59.45:500][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.21-08.59.45:500][885]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.21-08.59.45:500][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.21-08.59.45:500][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.21-08.59.45:500][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.21-08.59.45:500][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.21-08.59.45:500][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.21-08.59.45:502][885]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.21-08.59.45:517][885]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (USB PnP Audio Device)
+[2022.10.21-08.59.45:517][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.21-08.59.45:517][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.21-08.59.45:517][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.21-08.59.45:518][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.21-08.59.45:518][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.21-08.59.45:519][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.21-08.59.45:519][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.21-08.59.45:519][885]LogInit: FAudioDevice initialized.
+[2022.10.21-08.59.45:519][885]LogAudio: Display: Audio Device (ID: 2) registered with world 'Ld_Map_Testing'.
+[2022.10.21-08.59.45:531][885]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.21-08.59.45:541][885]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ld_Map_Testing.Ld_Map_Testing up for play (max tick rate 0) at 2022.10.21-10.59.45
+[2022.10.21-08.59.45:562][885]LogWorld: Bringing up level for play took: 0.030478
+[2022.10.21-08.59.45:563][885]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.10.21-08.59.45:564][885]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.21-08.59.45:592][885]PIE: Server logged in
+[2022.10.21-08.59.45:593][885]PIE: Play in editor total start time 0,14 seconds.
+[2022.10.21-08.59.46:993][948]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2022.10.21-08.59.52:878][435]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2022.10.21-08.59.54:153][538]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-240.64 Y=-549.63 Z=0.00 Location: X=-1840.46 Y=-11587.66 Z=61.45 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:36.190 Actor:StaticMeshActor_259 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.10.21-08.59.54:352][553]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2022.10.21-08.59.57:440][834]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2022.10.21-08.59.58:499][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.21-08.59.58:499][922]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Ld_Map_Testing
+[2022.10.21-08.59.58:500][922]LogWorld: UWorld::CleanupWorld for Ld_Map_Testing, bSessionEnded=true, bCleanupResources=true
+[2022.10.21-08.59.58:501][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-08.59.58:514][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.21-08.59.58:519][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-08.59.58:540][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.21-08.59.58:541][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.21-08.59.58:542][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.21-08.59.58:582][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.21-08.59.58:640][923]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.10.21-09.00.00:243][ 46]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.21-09.00.00:249][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.21-09.00.00:249][ 46]PIE: New page: PIE session: Ld_Map_Testing (21 oct. 2022 à 13:00:00)
+[2022.10.21-09.00.00:278][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ld_Map_Testing
+[2022.10.21-09.00.00:297][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018772s)
+[2022.10.21-09.00.00:297][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ld_Map_Testing.Ld_Map_Testing to /Game/Maps/UEDPIE_0_Ld_Map_Testing.Ld_Map_Testing (0.018875s)
+[2022.10.21-09.00.00:297][ 46]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.21-09.00.00:297][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.21-09.00.00:297][ 46]LogAIModule: Creating AISystem for world Ld_Map_Testing
+[2022.10.21-09.00.00:298][ 46]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2022.10.21-09.00.00:344][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.21-09.00.00:352][ 46]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.21-09.00.00:352][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.21-09.00.00:352][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.21-09.00.00:352][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.21-09.00.00:352][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.21-09.00.00:352][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.21-09.00.00:352][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.21-09.00.00:352][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.21-09.00.00:352][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.21-09.00.00:352][ 46]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.21-09.00.00:352][ 46]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.21-09.00.00:352][ 46]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.21-09.00.00:354][ 46]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.21-09.00.00:368][ 46]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (USB PnP Audio Device)
+[2022.10.21-09.00.00:368][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.21-09.00.00:368][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.21-09.00.00:368][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.21-09.00.00:368][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.21-09.00.00:368][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.21-09.00.00:370][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.21-09.00.00:370][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.21-09.00.00:370][ 46]LogInit: FAudioDevice initialized.
+[2022.10.21-09.00.00:370][ 46]LogAudio: Display: Audio Device (ID: 3) registered with world 'Ld_Map_Testing'.
+[2022.10.21-09.00.00:383][ 46]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.21-09.00.00:393][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ld_Map_Testing.Ld_Map_Testing up for play (max tick rate 0) at 2022.10.21-11.00.00
+[2022.10.21-09.00.00:393][ 46]LogWorld: Bringing up level for play took: 0.009678
+[2022.10.21-09.00.00:395][ 46]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.10.21-09.00.00:395][ 46]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.10.21-09.00.00:397][ 46]PIE: Server logged in
+[2022.10.21-09.00.00:398][ 46]PIE: Play in editor total start time 0,149 seconds.
+[2022.10.21-09.00.12:619][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.21-09.00.12:619][ 21]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Ld_Map_Testing
+[2022.10.21-09.00.12:619][ 21]LogWorld: UWorld::CleanupWorld for Ld_Map_Testing, bSessionEnded=true, bCleanupResources=true
+[2022.10.21-09.00.12:620][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-09.00.12:630][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.21-09.00.12:634][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-09.00.12:651][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.21-09.00.12:652][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.21-09.00.12:653][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.21-09.00.12:660][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.21-09.00.12:737][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.10.21-09.00.15:450][230]Cmd: SELECT NONE
+[2022.10.21-09.04.46:160][ 69]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2022.10.21-09.04.46:161][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.21-09.05.07:879][344]LogSlate: Window 'BP_Player' being destroyed
+[2022.10.21-09.05.34:940][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.21-09.05.34:948][437]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005805 seconds
+[2022.10.21-09.05.34:994][437]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Ld_Map_Testing_Auto1
+[2022.10.21-09.05.34:994][437]LogSavePackage: Moving 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Saved/Ld_Map_Testing_Auto138BFE1D04F49CE0D67A247BDE2D4304E.tmp' to 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Saved/Autosaves/Game/Maps/Ld_Map_Testing_Auto1.umap'
+[2022.10.21-09.05.35:000][437]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Ld_Map_Testing' took 0.087
+[2022.10.21-09.05.35:000][437]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2022.10.21-09.06.34:698][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ld_Map_Testing" FILE="C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.21-09.06.34:723][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.21-09.06.34:771][315]LogSavePackage: Moving output files for package: /Game/Maps/Ld_Map_Testing
+[2022.10.21-09.06.34:771][315]LogSavePackage: Moving 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Saved/Ld_Map_Testing52184E7840E43991F0E82A9F14E95AE7.tmp' to 'C:/Users/Bovettes/Documents/GitHub/GriffindorGame/Content/Maps/Ld_Map_Testing.umap'
+[2022.10.21-09.06.34:792][315]AssetCheck: New page: Asset Save: Ld_Map_Testing
+[2022.10.21-09.06.34:792][315]LogContentValidation: Display: Validating World /Game/Maps/Ld_Map_Testing.Ld_Map_Testing
